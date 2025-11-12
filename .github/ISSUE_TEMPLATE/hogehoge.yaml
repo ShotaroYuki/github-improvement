@@ -2,7 +2,8 @@ name: hogehoge
 description: hogehoge
 projects: ["ShotaroYuki/1"]
 body:
-  - type: markdown
+  - type: textarea
+    id: description
     attributes:
       value: |
         ## 概要
