@@ -1,9 +1,3 @@
----
-name: design-renewal
-about: デザインリニューアル
-projects: ["ShotaroYuki/1"]
----
-
 ## 概要
 
 - 改善目的を記載する
