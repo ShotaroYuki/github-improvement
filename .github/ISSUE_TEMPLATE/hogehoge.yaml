@@ -5,7 +5,6 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: 説明
       value: |
         ## 概要
         - 改善目的を記載する
