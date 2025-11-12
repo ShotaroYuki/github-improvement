@@ -1,0 +1,25 @@
+name: hogehoge
+description: hogehoge
+projects: ["ShotaroYuki/1"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: 概要
+      description: 改善目的を記載する
+    validations:
+      required: true
+
+  - type: textarea
+    id: detail
+    attributes:
+      label: 詳細
+
+  - type: textarea
+    id: estimate
+    attributes:
+      label: 工数見積もり
+      description: |
+        - 時間は1,2,3,5,8,13...といったフィボナッチ数で入力
+        - 13を超えてくるようだと、issueの粒度が大きい可能性があるので、さらに分解を検討するのがいいかもしれません
+      placeholder: xxh
