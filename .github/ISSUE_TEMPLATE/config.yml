@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: design-renewal
+    about: デザインリニューアル
+    url: https://github.com/ShotaroYuki/github-improvement/issues/new?template=design-renewal.md&projects=ShotaroYuki/1
